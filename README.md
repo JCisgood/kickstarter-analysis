@@ -1,27 +1,27 @@
-#Table of Contents
-#Project Overview
-#Resources
-#Objectives
-#Summary
-#Limitations
+# Table of Contents
+# Project Overview
+# Resources
+# Objectives
+# Summary
+# Limitations
 
-###Project Overview
+### Project Overview
 This module is a deep dive into Excel, a tool that can be used across all areas of life, from household budgeting to complex financial analysis. Learning the intricacies of Excel will draw on (and enhance) skills we may have already, like computer literacy, data literacy, and quantitative reasoning.
 
-###Resources
+### Resources
 Software: Excel
 Objectives
 Use filters and Excel formula to create new datasets
 Create visualizations using Excel charts and pivot tables
 Interpret the summary data provided from the visualizations
 
-###Summary
+### Summary
 In this challenge, we continued to exercise our Excel prowess! This time, we created two new analyses: outcomes based on goals and outcomes based on launch date.
 
-###Background
+### Background
 Louise’s play Fever came close came close to its fundraising goal in a short amount of time. How many other Kickstarter campaigns were able to do this as well? In this challenge, we conducted a data analysis to answer this question and determine whether the length of a campaign contributes to its ultimate success or failure.
 
-###Objectives
+### Objectives
 The goals of this challenge were to:
 
 Use filters and Excel formula to create new datasets
